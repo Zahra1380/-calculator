@@ -1,0 +1,4 @@
+# calculator
+This calculator is written as functions and using stack data structure.
+This code checks that what operator and operand that come after each other, and after calculating the result, it is stored in the database along with the operations performed.
+we can see the all data in database and clear the history.
